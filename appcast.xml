@@ -3,6 +3,20 @@
     <channel>
         <title>PhotoScale</title>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Tue, 22 Sep 2026 13:13:27 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Einfachere Erstinstallation auf einem anderen Mac (Installieren-Zip).</p>
+<p>Erstinstallation auf einem anderen Mac: <a href="https://raw.githubusercontent.com/thomasaggeler-gif/PhotoScale-Releases/main/PhotoScale-0.1.1-installieren.zip">PhotoScale-0.1.1-installieren.zip</a> herunterladen (nicht das Sparkle-Update-Zip), entpacken und «Photo Scale installieren.command» doppelklicken. Blockiert macOS das Skript: Rechtsklick → Öffnen. Danach kommen Sparkle-Updates ohne Extra-Schritt. Ein Doppelklick wie bei Safari braucht Developer ID und Notarisierung (kostenpflichtiges Apple-Konto).</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/PhotoScale-Releases/main/PhotoScale-0.1.1.zip" length="4274750" type="application/octet-stream" sparkle:edSignature="89dqX/wFPnkirZ58GPGYU0Bx91CbBVraU+4mYSR+PJGuRuYnxBa9us4g6TP+OdqFVScm61vVgndAFNhQsN4mBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/PhotoScale-Releases/main/PhotoScale3-2.delta" sparkle:deltaFrom="2" length="1130" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TOoWDJPaFNY7cOtgaD+sz6TovVIQ1EqlOfHKespS+cHErL8DsWR1bmusAppYNmsfHC+iCWYaQ5tKRxuu4q8ODw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Tue, 22 Sep 2026 12:00:57 +0200</pubDate>
             <sparkle:version>2</sparkle:version>
