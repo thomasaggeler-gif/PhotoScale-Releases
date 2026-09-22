@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>PhotoScale</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Tue, 22 Sep 2026 12:00:57 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Erste Version: Fotos proportional verkleinern, Grössenvorschau, JPEG und PDF einzeln.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/PhotoScale-Releases/main/PhotoScale-0.1.0.zip" length="4274749" type="application/octet-stream" sparkle:edSignature="/qu38H+gkWpvF3I+K1GbAbGdVsNSdt0ENW7tH0wRx0z0HBhJOBIqAKFXfxN73UUpH7cb56YZVKmdqJRu2p3aDg=="/>
+        </item>
+    </channel>
+</rss>
