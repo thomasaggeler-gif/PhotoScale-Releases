@@ -3,6 +3,24 @@
     <channel>
         <title>PhotoScale</title>
         <item>
+            <title>0.2.4</title>
+            <pubDate>Tue, 17 Nov 2026 11:22:31 +0100</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Strenger abgesichert: kein Entwickler-Recht mehr in der fertigen App.</p>
+<p>Erstinstallation auf einem anderen Mac: <a href="https://raw.githubusercontent.com/thomasaggeler-gif/PhotoScale-Releases/main/PhotoScale-0.2.4-installieren.zip">PhotoScale-0.2.4-installieren.zip</a> herunterladen (nicht das Sparkle-Update-Zip), entpacken, <strong>Anleitung.txt</strong> öffnen. Eine Terminal-Zeile (<code>xattr -cr </code>, Ordner auf das Terminal ziehen), App nach Programme, dann <code>xattr -cr /Applications/PhotoScale.app</code>. Das .command aus dem Internet wird von macOS als «beschädigt» blockiert. Danach kommen Sparkle-Updates ohne Extra-Schritt.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/PhotoScale-Releases/main/PhotoScale-0.2.4.zip" length="4602387" type="application/octet-stream" sparkle:edSignature="3+3npEfqkXsZp0bSvKeP+HhFEdr/B2VTYtKDxBsA5JL0j37J+K1X7RjhrXlKmKN7T3ZnBqecpfFNsONvKGp1AA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/PhotoScale-Releases/main/PhotoScale9-8.delta" sparkle:deltaFrom="8" length="1330" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hUf25fWKkdjv56bBq1XOWOQ631QXJQo4b21IJd84gnsyy+wrJcobj6HMQc/DPvKkFZhO1dm0vJuZ08G98xCzCQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/PhotoScale-Releases/main/PhotoScale9-7.delta" sparkle:deltaFrom="7" length="1330" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ANJFbJpDV2QcOktL4xYfo5NiCtvOd826K/7I+JiAdFLHVRTpA5lcYLpu7JcnhnJDDFfdUXNc74SEeBSH7HKfDg=="/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/PhotoScale-Releases/main/PhotoScale9-6.delta" sparkle:deltaFrom="6" length="1777094" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Iby3SW/2SYuKETIEpjDb/DvBnPdx/ErfqjfHesOi5RcBRNp0jrr8E9k/5MfZtr3ksaCBoqpctUBy+qHjqh1zDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/PhotoScale-Releases/main/PhotoScale9-5.delta" sparkle:deltaFrom="5" length="1867590" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="F3Ade3HDwQSkkYHgbZ3oBR7M46o2xR8JWFuDCEEXtEKg1/QT/ND9Sv+7k1tqwBAdTN88196O1fO0kMd9WLxpDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/PhotoScale-Releases/main/PhotoScale9-4.delta" sparkle:deltaFrom="4" length="1875210" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GyEaoaslGyah2I2hgI8MJi5ruLMMk9ug/JVR2tNp6cDtMJz9oonuYFaQD6JHxZxW6SaqtzxpHBAvLk8vEnrzBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.3</title>
             <pubDate>Tue, 17 Nov 2026 11:00:09 +0100</pubDate>
             <sparkle:version>8</sparkle:version>
@@ -13,10 +31,10 @@
 ]]></description>
             <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/PhotoScale-Releases/main/PhotoScale-0.2.3.zip" length="4603044" type="application/octet-stream" sparkle:edSignature="QJDq2YW2MlSL7bFoNp7kf+3xh7C85rMbBpXU5KT1czqzd8nTXds0kq5a1anOtZTYLCJ2NWGJQ0OkfvnWHi7YCg=="/>
             <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/PhotoScale-Releases/main/PhotoScale8-7.delta" sparkle:deltaFrom="7" length="1114" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QMPvqGb21XTDHvTNIawlNmd8x5FcaLbpIidXd87ivN+gseXzPk9iaPLoAKaflNuyQaM+aWdyuZM4LW5nQQjwAQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/PhotoScale-Releases/main/PhotoScale8-6.delta" sparkle:deltaFrom="6" length="1776906" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ph88G4cpr4wHhM7gMc0bfWglICqYJVA/jFS+nqlHl0Pbt6uUWO2r+bIuMCGM8sryDH5k27xwZXYOfsl/i9orAw=="/>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/PhotoScale-Releases/main/PhotoScale8-5.delta" sparkle:deltaFrom="5" length="1867558" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RwU6vqKrWuHP0DKwIay9CmF0x4qWNCq+8up6F0fRymLLdNg4Mb4czJWJTPU+5mENfzWs4Jo6T/jzvBSDk45xAg=="/>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/PhotoScale-Releases/main/PhotoScale8-4.delta" sparkle:deltaFrom="4" length="1875926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xHP+4VQmy8pqpfR9QZ5stDJp6lqdKs+ystNBahEPJPQqoqXtTYUiVoeY0BEbtw7HVsHpZVgH+0RZylqLdFfBCg=="/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/PhotoScale-Releases/main/PhotoScale8-7.delta" sparkle:deltaFrom="7" length="1114" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/PhotoScale-Releases/main/PhotoScale8-6.delta" sparkle:deltaFrom="6" length="1776906" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/PhotoScale-Releases/main/PhotoScale8-5.delta" sparkle:deltaFrom="5" length="1867558" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/PhotoScale-Releases/main/PhotoScale8-4.delta" sparkle:deltaFrom="4" length="1875926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
             </sparkle:deltas>
         </item>
         <item>
@@ -33,21 +51,6 @@
                 <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/PhotoScale-Releases/main/PhotoScale7-6.delta" sparkle:deltaFrom="6" length="1776890" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
                 <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/PhotoScale-Releases/main/PhotoScale7-5.delta" sparkle:deltaFrom="5" length="1867690" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
                 <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/PhotoScale-Releases/main/PhotoScale7-4.delta" sparkle:deltaFrom="4" length="1875394" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.1</title>
-            <pubDate>Tue, 17 Nov 2026 09:46:15 +0100</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<p>Kurze Erklärung unter beiden Reglern und Tipp: zuerst die Grösse verkleinern, erst dann die Qualität.</p>
-<p>Erstinstallation auf einem anderen Mac: <a href="https://raw.githubusercontent.com/thomasaggeler-gif/PhotoScale-Releases/main/PhotoScale-0.2.1-installieren.zip">PhotoScale-0.2.1-installieren.zip</a> herunterladen (nicht das Sparkle-Update-Zip), entpacken, <strong>Anleitung.txt</strong> öffnen. Eine Terminal-Zeile (<code>xattr -cr </code>, Ordner auf das Terminal ziehen), App nach Programme, dann <code>xattr -cr /Applications/PhotoScale.app</code>. Das .command aus dem Internet wird von macOS als «beschädigt» blockiert. Danach kommen Sparkle-Updates ohne Extra-Schritt.</p>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/PhotoScale-Releases/main/PhotoScale-0.2.1.zip" length="4277138" type="application/octet-stream" sparkle:edSignature="woCH0g34EHzeQwOk6TpyolE4FPZA+NpysLS2qZlfEKDKqinR+jig/GGPnIVB4SRxV8t8qX6e/WTHM3RWeB0+Ag=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/PhotoScale-Releases/main/PhotoScale6-5.delta" sparkle:deltaFrom="5" length="280270" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/PhotoScale-Releases/main/PhotoScale6-4.delta" sparkle:deltaFrom="4" length="287754" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
             </sparkle:deltas>
         </item>
     </channel>
